@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/28/底部tab-体验课/常规</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="355.297926%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BFD7FF" stop-opacity="0.443973995" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="115.363301%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BFD7FF" stop-opacity="0.443973995" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="IT-APP-学习" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="学习-首页-方案3" transform="translate(-50.000000, -734.000000)">
+            <g id="编组-3" transform="translate(0.000000, 728.000000)">
+                <g id="Tab-1" transform="translate(38.000000, 0.000000)">
+                    <g id="编组" transform="translate(10.000000, 4.000000)">
+                        <path d="M8.409713,2 L19.590287,2 C21.8190838,2 22.6272994,2.23206403 23.4421143,2.66783176 C24.2569291,3.10359949 24.8964005,3.74307093 25.3321682,4.55788574 C25.767936,5.37270056 26,6.18091615 26,8.409713 L26,19.590287 C26,21.8190838 25.767936,22.6272994 25.3321682,23.4421143 C24.8964005,24.2569291 24.2569291,24.8964005 23.4421143,25.3321682 C22.6272994,25.767936 21.8190838,26 19.590287,26 L8.409713,26 C6.18091615,26 5.37270056,25.767936 4.55788574,25.3321682 C3.74307093,24.8964005 3.10359949,24.2569291 2.66783176,23.4421143 C2.23206403,22.6272994 2,21.8190838 2,19.590287 L2,8.409713 C2,6.18091615 2.23206403,5.37270056 2.66783176,4.55788574 C3.10359949,3.74307093 3.74307093,3.10359949 4.55788574,2.66783176 C5.37270056,2.23206403 6.18091615,2 8.409713,2 Z" id="矩形" fill="#1D5BFF"></path>
+                        <line x1="16.5" y1="8.5" x2="19.5" y2="8.5" id="路径-11" stroke="url(#linearGradient-1)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polyline id="路径-6备份" stroke="url(#linearGradient-2)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.726261, 16.047528) scale(-1, 1) translate(-10.726261, -16.047528) " points="12.3618075 12.5475277 9.09071453 16.162211 12.3618075 19.5475277"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
